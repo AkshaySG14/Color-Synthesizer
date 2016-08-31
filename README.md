@@ -9,4 +9,6 @@ To launch the application, a mac with the
 latest OS is required. The application itself can be launched immediately once downloaded. Due to the simplicity of the application, it only requires a mouse/trackpad. The user should be able to easily 
 navigate through the UI to interact with the application.
 
-Created by Akshay Subramaniam.
+Credits: Thanks to Lauren Thompson for the font used in the game.
+
+MADE BY AKSHAY SUBRAMANIAM
